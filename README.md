@@ -2,11 +2,11 @@
 
 PROD is a cross-platform mobile application built using React Native CLI. The app provides various features such as user authentication, a Pomodoro timer, statistical data of productive time using charts, and day planning with a calendar.
 
-[Figma Design]([Figma](https://www.figma.com/file/oZxpQoXpXa0OtuLKtlunLJ/Pomo---Pomodoro-%26-Timer-App-UI-Kit-(Community)?node-id=0%3A1&t=k3yaLaklPcdwo1eM-0))
+[Figma Design](<[Figma](https://www.figma.com/file/oZxpQoXpXa0OtuLKtlunLJ/Pomo---Pomodoro-%26-Timer-App-UI-Kit-(Community)?node-id=0%3A1&t=k3yaLaklPcdwo1eM-0)>)
 
 ## What I Learned Building PROD 😎
 
-Here's what all I learn't and what I'm still yet to learn  along the journey to complete the app
+Here's what all I learn't and what I'm still yet to learn along the journey to complete the app
 
 - Firebase Authentication (Login & Logout)✅
 - User Registration using Firebase✅
@@ -72,7 +72,7 @@ PROD provides multiple options for user authentication, including email, Google,
 
 ### Pomodoro Timer 🍅
 
-The Pomodoro timer feature of FLOW allows users to track their time spent on a task and take breaks at regular intervals. Users can customize the timer duration according to their preference.
+The Pomodoro timer feature of PROD allows users to track their time spent on a task and take breaks at regular intervals. Users can customize the timer duration according to their preference.
 
 ### Statistical Data of Productive Time Using Charts 📊
 
