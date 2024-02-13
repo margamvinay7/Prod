@@ -26,7 +26,7 @@ Here's what all I learn't and what I'm still yet to learn  along the journey to 
   <p>I'll Be Adding More As I Complete Them😄</p>
   <br />
   <div>
-    <img src="./prod/designs/profile.png" width="25%">
+    <img src="Prod\src\designs\AddTasks.png" width="25%">
     <img src="./designs/Login.jpg" width="25%">
     <img src="./designs/Register.jpg" width="25%">
   </div>
